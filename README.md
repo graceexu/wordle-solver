@@ -1,2 +1,2 @@
-# wordle-solver
-everything from scratch
+# Wordle Solver
+
